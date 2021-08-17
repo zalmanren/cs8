@@ -1,0 +1,15 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\DoubleDecimal.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\DoubleDecimal.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\DoubleDecimal.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\DoubleDecimal.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\ref\DoubleDecimal.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\bin\Debug\net6.0\DoubleDecimal.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\ref\DoubleDecimal.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\DoubleDecimal\obj\Debug\net6.0\DoubleDecimal.genruntimeconfig.cache

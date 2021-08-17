@@ -21,6 +21,15 @@ namespace DoubleDecimal
                 Console.WriteLine($"{a2} + {b2} equals 0.3");
             else
                 Console.WriteLine($"{a2} + {b2} does NOT equal 0.3");
+            
+
+            float a3 = 0.1f;
+            float b3 = 0.2f;
+            
+            if(a3 + b3 == 0.3f)
+                Console.WriteLine($"{a3} + {b3} equals 0.3");
+            else
+                Console.WriteLine($"{a3} + {b3} does NOT equal 0.3");
         }
     }
 }

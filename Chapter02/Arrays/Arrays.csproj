@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>.NETcoreapp3.0</TargetFramework>
+    <Nulllable>enable</Nulllable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\bin\Debug\net6.0\Exercise02.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\bin\Debug\net6.0\Exercise02.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\bin\Debug\net6.0\Exercise02.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\bin\Debug\net6.0\Exercise02.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\bin\Debug\net6.0\Exercise02.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\refint\Exercise02.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\Exercise02.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\Exercise02\obj\Debug\net6.0\ref\Exercise02.dll

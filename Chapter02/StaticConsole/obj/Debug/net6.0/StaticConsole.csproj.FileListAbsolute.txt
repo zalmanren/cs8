@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\bin\Debug\net6.0\StaticConsole.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\bin\Debug\net6.0\StaticConsole.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\bin\Debug\net6.0\StaticConsole.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\bin\Debug\net6.0\StaticConsole.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\bin\Debug\net6.0\StaticConsole.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\refint\StaticConsole.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\StaticConsole.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter02\StaticConsole\obj\Debug\net6.0\ref\StaticConsole.dll

@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\bin\Debug\net6.0\Operator.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\bin\Debug\net6.0\Operator.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\bin\Debug\net6.0\Operator.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\bin\Debug\net6.0\Operator.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\bin\Debug\net6.0\Operator.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\refint\Operator.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\Operator.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Operator\obj\Debug\net6.0\ref\Operator.dll

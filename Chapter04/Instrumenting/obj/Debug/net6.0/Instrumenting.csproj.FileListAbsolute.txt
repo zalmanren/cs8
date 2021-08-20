@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\refint\Instrumenting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter04\Instrumenting\obj\Debug\net6.0\ref\Instrumenting.dll

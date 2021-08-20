@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\Foreach\obj\Debug\net6.0\ref\Foreach.dll

@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\bin\Debug\net6.0\CastingConverting.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\refint\CastingConverting.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll

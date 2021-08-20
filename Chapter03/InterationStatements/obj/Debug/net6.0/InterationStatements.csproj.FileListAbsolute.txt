@@ -1,0 +1,16 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\bin\Debug\net6.0\InterationStatements.exe
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\bin\Debug\net6.0\InterationStatements.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\bin\Debug\net6.0\InterationStatements.runtimeconfig.json
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\bin\Debug\net6.0\InterationStatements.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\bin\Debug\net6.0\InterationStatements.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\refint\InterationStatements.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\InterationStatements.genruntimeconfig.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter03\InterationStatements\obj\Debug\net6.0\ref\InterationStatements.dll

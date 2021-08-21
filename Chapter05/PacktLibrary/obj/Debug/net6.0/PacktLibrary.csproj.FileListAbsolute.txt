@@ -1,0 +1,13 @@
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.ImplicitNamespaceImports.cs
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+C:\Codes\C#\.NET CORE\CS8\Chapter05\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll

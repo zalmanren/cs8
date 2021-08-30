@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7mi0FGHbbsxSvvjfpvcfYFbDRo9HtBCJKUlPPo5AXmyFlqze2TR3sPOmRdAzBFwZSCQalQbXi24agfNy/RRTA==",
+  "success": true,
+  "projectFilePath": "C:\\Codes\\C#\\.NET CORE\\CS8\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zalman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

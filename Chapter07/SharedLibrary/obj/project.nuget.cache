@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnsvkQ5TkeCOy8blvIYKye1m9uCGYUMvVo9dSNK7Z42owgOdWvGftn6s6OISGsBJvQA5Eqo3/sHq15mN2XB0VA==",
+  "success": true,
+  "projectFilePath": "C:\\Codes\\C#\\.NET CORE\\CS8\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zalman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zalman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

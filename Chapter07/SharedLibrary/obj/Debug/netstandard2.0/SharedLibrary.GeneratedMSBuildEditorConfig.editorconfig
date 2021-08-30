@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = c:\Codes\C#\.NET CORE\CS8\Chapter07\SharedLibrary\
